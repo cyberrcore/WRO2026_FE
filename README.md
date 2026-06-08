@@ -6,16 +6,14 @@
 
 # 🏆 Turkish National 2nd Place - WRO 2026 FE
 
-<h4 align="center">
+<p align="center">
 Turkish robotics team building compact autonomous vehicles for<br>
 <b>World Robot Olympiad™ Future Engineers 2026</b>
-</h4>
+</p>
 
 ---
 
-<h4>
-CYBERRCORE developed a compact autonomous vehicle designed for both the Open Round and Obstacle Round. Built through a short but intense engineering process, our robot combines mechanical design, embedded control, computer vision, and sensor-based navigation into a simple, reliable, and competition-ready system.
-</h4>
+CYBERRCORE developed a compact autonomous vehicle designed for both the **Open Round** and **Obstacle Round**. Built through a short but intense engineering process, our robot combines **mechanical design**, **embedded control**, **computer vision**, and **sensor-based navigation** into a simple, reliable, and competition-ready system.
 
 ---
 
