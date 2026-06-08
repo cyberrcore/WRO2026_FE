@@ -8,13 +8,15 @@
 
 Welcome to the GitHub repository of Team CYBERRCORE, competing in the World Robot Olympiad™ (WRO®) Future Engineers 2026 category.
 
-**CYBERRCORE** is a Turkish robotics team focused on **autonomous driving**, **embedded systems**, **computer vision**, and **mechanical design**. For this year’s **WRO Future Engineers** challenge, we designed and built a compact self-driving robot capable of navigating the dynamic WRO game field using **real-time sensor data** and **autonomous decision-making**.
+## About Team CYBERRCORE
 
-In the **WRO 2026 Future Engineers Turkish National Finals**, Team **CYBERRCORE** achieved **2nd place in Türkiye**. Despite a short development period, we successfully brought together **mechanical design**, **electronics**, **image processing**, and **autonomous driving software** into a working competition robot.
+**CYBERRCORE** is a Turkish robotics team competing in **WRO 2026 Future Engineers**. We focus on **autonomous driving**, **embedded systems**, **computer vision**, and **mechanical design**.
 
-This repository contains Team **CYBERRCORE**'s autonomous vehicle documentation for **WRO 2026 Future Engineers**. The goal of this repository is not only to show the final robot, but also to make the complete engineering process reproducible: **mechanical CAD**, **electronics wiring**, **software architecture**, **testing workflow**, and **engineering trade-offs** are all documented in separate folders.
+In the **WRO 2026 Future Engineers Turkish National Finals**, Team **CYBERRCORE** achieved **2nd place in Türkiye** with a compact autonomous vehicle built in a short development period.
 
-The robot is designed for both the **Open Round** and **Obstacle Round**. It uses a **Raspberry Pi Pico 2 W H** as the main controller, an **ESP32-CAM** as a dedicated vision module, **ultrasonic wall sensing**, **gyro-based heading estimation**, **Ackermann-style steering**, and a **custom 3D-printed drivetrain**.
+This repository documents our complete engineering process: **mechanical CAD**, **electronics wiring**, **software architecture**, **testing workflow**, and **design trade-offs**.
+
+The robot is designed for both the **Open Round** and **Obstacle Round**. It uses a **Raspberry Pi Pico 2 W H**, an **ESP32-CAM** vision module, **ultrasonic wall sensing**, **gyro-based heading estimation**, **Ackermann-style steering**, and a **custom 3D-printed drivetrain**.
 
 ---
 
