@@ -8,11 +8,12 @@
 
 Welcome to the official repository of **Team CYBERRCORE**.
 
-> A Turkish robotics team building compact autonomous vehicles for the  
-> **World Robot Olympiad™ Future Engineers 2026** challenge.
+> - **Team:** CYBERRCORE  
+> - **Competition:** WRO Future Engineers 2026  
+> - **Achievement:** Turkish National **2nd Place**  
+> - **Focus:** Compact autonomous vehicle design  
 
-**CYBERRCORE** developed a compact autonomous vehicle designed to handle the challenges of both the **Open Round** and **Obstacle Round**. Built through a short but intense engineering process, our robot combines **mechanical design**, **embedded control**, **computer vision**, and **sensor-based navigation** into a simple, reliable, and competition-ready system.
-
+**CYBERRCORE** developed a compact autonomous vehicle designed for both the **Open Round** and **Obstacle Round**. Built through a short but intense engineering process, our robot combines **mechanical design**, **embedded control**, **computer vision**, and **sensor-based navigation** into a simple, reliable, and competition-ready system.
 ---
 
 ## Robot Documentation Preview
