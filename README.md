@@ -17,7 +17,7 @@ CYBERRCORE developed a compact autonomous vehicle designed for both the **Open R
 
 ---
 
-<img src="award.png" alt="Team CYBERRCORE Logo">
+<img src="award.png" width=300 height=500 alt="Team CYBERRCORE Award">
 
 ---
 
