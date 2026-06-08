@@ -4,19 +4,14 @@
   <img src="logo_yazısız-yuvarlak.png" alt="Team CYBERRCORE Logo">
 </p>
 
-# 🏆 WRO 2026 FUTURE ENGINEERS – TURKISH NATIONAL 2ND PLACE
+# 🏆 WRO 2026 Future Engineers – Turkish National 2nd Place
 
-Welcome to the GitHub repository of Team CYBERRCORE, competing in the World Robot Olympiad™ (WRO®) Future Engineers 2026 category.
+Welcome to the official repository of **Team CYBERRCORE**.
 
-## About Team CYBERRCORE
+> A Turkish robotics team building compact autonomous vehicles for the  
+> **World Robot Olympiad™ Future Engineers 2026** challenge.
 
-**CYBERRCORE** is a Turkish robotics team competing in **WRO 2026 Future Engineers**. We focus on **autonomous driving**, **embedded systems**, **computer vision**, and **mechanical design**.
-
-In the **WRO 2026 Future Engineers Turkish National Finals**, Team **CYBERRCORE** achieved **2nd place in Türkiye** with a compact autonomous vehicle built in a short development period.
-
-This repository documents our complete engineering process: **mechanical CAD**, **electronics wiring**, **software architecture**, **testing workflow**, and **design trade-offs**.
-
-The robot is designed for both the **Open Round** and **Obstacle Round**. It uses a **Raspberry Pi Pico 2 W H**, an **ESP32-CAM** vision module, **ultrasonic wall sensing**, **gyro-based heading estimation**, **Ackermann-style steering**, and a **custom 3D-printed drivetrain**.
+**CYBERRCORE** developed a compact autonomous vehicle designed to handle the challenges of both the **Open Round** and **Obstacle Round**. Built through a short but intense engineering process, our robot combines **mechanical design**, **embedded control**, **computer vision**, and **sensor-based navigation** into a simple, reliable, and competition-ready system.
 
 ---
 
