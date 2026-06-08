@@ -13,9 +13,9 @@ Turkish robotics team building compact autonomous vehicles for<br>
 
 ---
 
-<h3>
+<h4>
 CYBERRCORE developed a compact autonomous vehicle designed for both the Open Round and Obstacle Round. Built through a short but intense engineering process, our robot combines mechanical design, embedded control, computer vision, and sensor-based navigation into a simple, reliable, and competition-ready system.
-</h3>
+</h4>
 
 ---
 
